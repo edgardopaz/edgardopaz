@@ -71,6 +71,7 @@ I build projects end-to-end, from planning and data modeling to backend logic an
 
 ---
 
-### GitHub Stats
+### Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgardopaz&show_icons=true&theme=gruvbox&cache_seconds=1800)
+- Email: **edgardopazromero@gmail.com**
+- Portfolio: https://edgardopaz.dev
