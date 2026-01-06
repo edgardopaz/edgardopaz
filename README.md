@@ -1,4 +1,4 @@
-## 👨‍💻 Edgardo Paz-Romero
+## Edgardo Paz-Romero
 
 **`Software Engineer | CS Student`**
 
@@ -73,4 +73,4 @@ I build projects end-to-end, from planning and data modeling to backend logic an
 
 ### GitHub Stats
 
-![Edgardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgardopaz&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edgardopaz&show_icons=true&theme=gruvbox&cache_seconds=1800)
