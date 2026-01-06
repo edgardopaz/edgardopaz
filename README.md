@@ -1,6 +1,6 @@
 ## Edgardo Paz-Romero
 
-**`Software Engineer | CS Student`**
+**`Aspiring Software Engineer | CS Student`**
 
 I’m a computer science student and software engineer focused on building **practical, performant software** from the ground up. My work spans full-stack web apps, developer tooling, and automation—always with an emphasis on clean architecture, usability, and real-world impact.
 
