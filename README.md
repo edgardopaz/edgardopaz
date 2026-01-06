@@ -2,7 +2,7 @@
 
 **`Aspiring Software Engineer | CS Student`**
 
-I’m a computer science student and software engineer focused on building **practical, performant software** from the ground up. My work spans full-stack web apps, developer tooling, and automation—always with an emphasis on clean architecture, usability, and real-world impact.
+I’m a computer science student and aspiring software engineer focused on building **practical, performant software** from the ground up. My work spans full-stack web apps, developer tooling, and automation. I always emphasize clean architecture, usability, and real-world impact.
 
 I build projects end-to-end, from planning and data modeling to backend logic and clean user interfaces. I’ve also worked in professional environments as a front-end and software engineering intern, collaborating in agile teams and shipping real features.
 
